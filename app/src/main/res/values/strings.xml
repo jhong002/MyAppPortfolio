@@ -2,4 +2,12 @@
     <string name="app_name">My App Portfolio</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="myapps">Jinri\'s Nanodegree Apps</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="spotify_streamer">Spotify Streamer</string>
+    <string name="scores_app">Scores App</string>
+    <string name="library_app">Library App</string>
+    <string name="build_app">Build It Bigger</string>
+    <string name="xyz_reader">XYZ Reader</string>
+    <string name="capstone">Capstone: My Own App</string>
 </resources>
